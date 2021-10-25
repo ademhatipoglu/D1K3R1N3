@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @D1K3R1N3
+- 👀 I’m interested in algorithmic trading and quantitative finance
+- 🌱 I’m currently learning Python and R
+- 💞️ I’m looking to collaborate on trading strategy backtesters...
